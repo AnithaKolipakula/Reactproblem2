@@ -1,3 +1,5 @@
+//2. Create a tab component which shows 3 tabs and the corresponding panel. The active
+tab is highlighted and the corresponding panel is shown. Rest of the panels are hidden.
 import React, { useState } from 'react';
 
 function TabComponent() {
